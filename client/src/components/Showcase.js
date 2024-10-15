@@ -41,10 +41,10 @@ const Showcase = () => {
             bottom="1rem"
         >I'm <BlueText>Mishti</BlueText></Heading>
         <Heading as="h3" size="h3">
-            I'm <BlueText>Frontend Developer</BlueText>
+            I'm <BlueText>Web Developer</BlueText>
         </Heading>
         <ParaText>
-            Hello, my name is Mishti and I'm a front-end developer having experience in creating and web applications.
+            Hello, my name is Mishti and I'm a Web developer gaining experience in creating web applications through some projects.
         </ParaText>
         {/* social icons */}
         <FlexContainer as="mi" gap="30px" responsievFlex>
