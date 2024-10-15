@@ -1,6 +1,7 @@
 import {FaReact,FaNode, FaCss3Alt, FaBootstrap} from 'react-icons/fa'
 import {SiJavascript, SiMongodb} from 'react-icons/si';
 import Project1 from '../assets/Project1.png';
+import ss55 from'../assets/ss55.png';
 export const Skills = [
     {
         id:0,
