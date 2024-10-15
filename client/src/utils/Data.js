@@ -45,15 +45,15 @@ export const projectDetails = [
         project_url: '#',
         reverse:false
     },
-    // {
-    //     id:1,
-    //     project_name: "Expense Tracker",
-    //     project_desc: " An expense-tracking application, embedded with a chart to track transactions.You can set a target/goal to track how much you need to achieve the same.It's provided with History Section where one can check your recent transactions and check your vault.",
-    //     tech_stack: ['React JS','Node','Express','MongoDB'],
-    //     project_img: Project1,
-    //     project_url: '#',
-    //     reverse:true,
-    // },
+     {
+        id:1,
+        project_name: "Task-Manager",
+        project_desc: " Web Application for simplifying task assigning among a team/group",
+        tech_stack: ['React JS','Node','Express','MongoDB'],
+        project_img: ss55,
+        project_url: '#',
+        reverse:true,
+     },
 ]
 export const navLinks =[
     {
